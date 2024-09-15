@@ -143,14 +143,14 @@ const ComingSoon = () => {
     { 
       title: "TELEGRAM", 
       text: "Join Now", 
-      link: "https://t.me/", 
+      link: "https://t.me/WWETsolana", 
       image: cardImage1, 
       bgColor: "bg-black bg-opacity-50"
     },
     { 
       title: "X", 
       text: "Join Now", 
-      link: "https://x.com/", 
+      link: "https://x.com/WWETsol", 
       image: img1, 
       bgColor: "bg-black bg-opacity-50"
     },
